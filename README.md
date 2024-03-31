@@ -1,4 +1,6 @@
-# If you never do a Python program
+# Thank you for coming! I'm happy to see you here
+
+## If you never do a Python program
 ## First step is create a virtual environment
 
 ## Install
